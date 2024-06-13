@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazingnish" alt="blazingnish" /></a> </p>
 
-- 🔭 I’m currently working on **A Discord clone**
+- 🔭 I’m currently working on **A rental site curated for women and a portfolio site**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs and backend**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React and interesting facts**
 
 - 📫 How to reach me **nishant.e.ekka@gmail.com**
 
